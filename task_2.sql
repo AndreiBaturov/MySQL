@@ -1,0 +1,1 @@
+select distinct firstname from vk_new.users;
